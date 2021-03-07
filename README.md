@@ -1,1 +1,1 @@
-# R-lab-experiment-2-writeup
+# R-lab-experiment-writeup
